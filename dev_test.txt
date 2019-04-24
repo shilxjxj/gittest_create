@@ -1,6 +1,2 @@
 这是测试GIT分支功能。
-<<<<<<< HEAD
-Creating a new branch is quick AND simple hh.
-=======
-Creating a new branch is quick AND simple hh.
->>>>>>> feature1
+Creating a new branch is quick N simple hh.
